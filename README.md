@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This directory contains the data behind the story [Be Suspicious Of Online Movie Ratings, Especially Fandango’s](http://fivethirtyeight.com/features/fandango-movies-ratings/).
 
 `fandango_score_comparison.csv` contains every film that has a Rotten Tomatoes rating, a RT User rating, a Metacritic score, a Metacritic User score, and IMDb score, and at least 30 fan reviews on Fandango. The data from Fandango was pulled on Aug. 24, 2015.
@@ -36,3 +37,7 @@ FILM | The movie
 STARS | Number of stars presented on Fandango.com
 RATING |  The Fandango ratingValue for the film, as pulled from the HTML of each page. This is the actual average score the movie obtained. 
 VOTES | number of people who had reviewed the film at the time we pulled it. 
+=======
+# fandango-movie-rating
+Simple project about movie ratings
+>>>>>>> origin/master
